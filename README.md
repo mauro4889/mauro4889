@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Mauro Spinello Alemani</h1>
 <h3 align="center">Desarrollador FullStack</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Pruebas unitarias**
+- 🌱 Actualmente estoy aprendiendo **Java**
 
 - 👨‍💻 Mis proyectos estan [https://github.com/mauro4889](https://github.com/mauro4889)
 
